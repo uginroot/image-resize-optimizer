@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "025e52973f4d4e5e9d1b195e5bd916c4",
+    "content-hash": "5bcf6b7ce76d15e35db1cae02e1cf7a1",
     "packages": [
         {
             "name": "psr/log",
@@ -154,16 +154,16 @@
         },
         {
             "name": "uginroot/image-resize",
-            "version": "v1.0.3",
+            "version": "v1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/uginroot/image-resize.git",
-                "reference": "7471f42962497868858e49e714f64ef2f6de2506"
+                "reference": "4a44687135541b5c18f156266c474daf7b27e03d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/uginroot/image-resize/zipball/7471f42962497868858e49e714f64ef2f6de2506",
-                "reference": "7471f42962497868858e49e714f64ef2f6de2506",
+                "url": "https://api.github.com/repos/uginroot/image-resize/zipball/4a44687135541b5c18f156266c474daf7b27e03d",
+                "reference": "4a44687135541b5c18f156266c474daf7b27e03d",
                 "shasum": ""
             },
             "require": {
@@ -200,7 +200,7 @@
                 "resize",
                 "watermark"
             ],
-            "time": "2019-07-26T08:03:16+00:00"
+            "time": "2019-07-26T09:44:22+00:00"
         }
     ],
     "packages-dev": [
