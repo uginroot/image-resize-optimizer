@@ -3,7 +3,7 @@ Resize and optimize image
 
 ### Install
 ```bash
-composer require uginroot/image-resize-optimizer:^1.0
+composer require uginroot/image-resize-optimizer:^1.0.2
 ```
 
 ### Info

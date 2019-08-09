@@ -4,6 +4,7 @@
 namespace Uginroot\Test;
 
 
+use Exception\ImageResizeImpossibleToCreateDirectoryException;
 use PHPUnit\Framework\TestCase;
 use Uginroot\Exception\ImageResizeBadContentException;
 use Uginroot\Exception\ImageResizeBadFormatException;
@@ -33,6 +34,7 @@ class ImageResizeOptimizerTest extends TestCase
      * @throws ImageResizeBadResourceException
      * @throws ImageResizeFileAlreadyExistException
      * @throws ImageResizeFileNotExistException
+     * @throws ImageResizeImpossibleToCreateDirectoryException
      */
     public function testSave()
     {
