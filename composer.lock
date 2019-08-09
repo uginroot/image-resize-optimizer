@@ -154,16 +154,16 @@
         },
         {
             "name": "uginroot/image-resize",
-            "version": "v1.0.4",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/uginroot/image-resize.git",
-                "reference": "4a44687135541b5c18f156266c474daf7b27e03d"
+                "reference": "9228ceea056ba5a36a3fd7fa73c4e34af2198b4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/uginroot/image-resize/zipball/4a44687135541b5c18f156266c474daf7b27e03d",
-                "reference": "4a44687135541b5c18f156266c474daf7b27e03d",
+                "url": "https://api.github.com/repos/uginroot/image-resize/zipball/9228ceea056ba5a36a3fd7fa73c4e34af2198b4d",
+                "reference": "9228ceea056ba5a36a3fd7fa73c4e34af2198b4d",
                 "shasum": ""
             },
             "require": {
@@ -200,7 +200,7 @@
                 "resize",
                 "watermark"
             ],
-            "time": "2019-07-26T09:44:22+00:00"
+            "time": "2019-08-09T09:02:49+00:00"
         }
     ],
     "packages-dev": [
